@@ -5,7 +5,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hiteshkoli0310&style=flat-square&color=00ff9d&label=profile+views)](https://github.com/hiteshkoli0310)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hiteshkoli0310-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-koli0310)
-[![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-00ff9d?style=flat-square&logo=firefox&logoColor=black)](https://im-hitesh.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Click-00ff9d?style=flat-square&logo=firefox&logoColor=black)](https://im-hitesh.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-hiteshkoli0310%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hiteshkoli0310@gmail.com)
 
 📍 Nashik, India &nbsp;|&nbsp; Investigating data, engineering intelligence, and building ML systems that matter.
