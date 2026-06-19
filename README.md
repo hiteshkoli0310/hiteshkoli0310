@@ -4,7 +4,7 @@
 ---
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hiteshkoli0310&style=flat-square&color=00ff9d&label=profile+views)](https://github.com/hiteshkoli0310)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hiteshkoli0310-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiteshkoli0310)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hiteshkoli0310-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-koli0310)
 [![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-00ff9d?style=flat-square&logo=firefox&logoColor=black)]()
 [![Email](https://img.shields.io/badge/Email-hiteshkoli0310%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hiteshkoli0310@gmail.com)
 
@@ -77,4 +77,4 @@ class HiteshKoli(DataScientist):
 
 If you are building something interesting or hiring in Data Science & ML, I would love to connect.
 
-[![Let's Connect](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiteshkoli0310)
+[![Let's Connect](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-koli0310)
